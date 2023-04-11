@@ -2,7 +2,7 @@ import random
 
 min_weight = 20
 max_weight = 120
-infinity_magic_value = 1000
+infinity_magic_value = 2147483647
 num_edges = 4
 n = 5  # amount of graph nodes
 
